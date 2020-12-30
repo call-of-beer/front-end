@@ -7,7 +7,7 @@
 				<div class="card m-5">
 					<!-- Default form login -->
 					<form
-						class="text-center border border-light p-5"
+						class="text-center border border-light p-5 ml-4 mr-4"
 						action="#!"
 					>
 						<p class="h4 mb-4">Zarejestruj się</p>
@@ -15,7 +15,7 @@
 							type="text"
 							id="Registername"
 							class="form-control mb-4"
-							placeholder="name"
+							placeholder="Nazwa"
 						/>
 						<!-- Email -->
 						<input

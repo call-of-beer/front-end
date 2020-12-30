@@ -43,7 +43,7 @@
 										id="defaultLoginFormRemember"
 									/>
 									<label
-										class="custom-control-label pr-3"
+										class="custom-control-label pl-2 pr-3"
 										for="defaultLoginFormRemember"
 										>Zapamiętaj</label
 									>
